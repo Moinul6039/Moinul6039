@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Md Moinul Hossain</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<img align="left" width="400" src="https://i.pinimg.com/originals/8a/f4/fe/8af4febc154ad406079ce04b7e9f70ee.gif" alt="Coading2">
 <img align="right" width="400" src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif" alt="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moinul6039&label=Profile%20views&color=0e75b6&style=flat" alt="moinul6039" /> </p>
