@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi 👋, I'm Md Moinul Hossain</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="left" width="400" src="https://i.pinimg.com/originals/8a/f4/fe/8af4febc154ad406079ce04b7e9f70ee.gif" alt="Coading2">
@@ -20,6 +18,7 @@
 <a href="https://linkedin.com/in/md-moinul-hossain-628b18217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-moinul-hossain-628b18217" height="30" width="40" /></a>
 <a href="https://fb.com/nirob.pathan17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nirob.pathan17" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/hossain15_6039" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hossain15_6039" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile//profile/moinul_6039" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="/profile/moinul_6039" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
