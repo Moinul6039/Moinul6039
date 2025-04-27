@@ -1,100 +1,101 @@
 <h1 align="center">Hi 👋, I'm Md Moinul Hossain</h1>
-<h3 align="center">A passionate Frontend Developer from Bangladesh 🇧🇩</h3>
+<h3 align="center">🚀 Passionate Frontend Developer | Problem Solver | Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/8a/f4/fe/8af4febc154ad406079ce04b7e9f70ee.gif" width="400" alt="Coding gif"/>
-  <img src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif" width="400" alt="Another coding gif"/>
+  <img src="https://i.ibb.co/r7vxn60/developer-banner.png" alt="Banner" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=moinul6039&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=moinul6039&theme=discord" alt="Github Trophies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Welcome+to+My+Profile!;Frontend+Developer;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 ---
 
-- 🌱 I’m currently learning **HTML, CSS, TailwindCSS**
-- 👨‍💻 All of my projects are available at: [GitHub Repositories](https://github.com/Moinul6039?tab=repositories)
-- 💬 Ask me about **HTML, CSS**
-- 📫 How to reach me: **hossain15-6039@diu.edu.bd**
-- ⚡ Fun fact: **I think I am funny 😂**
+## 🚀 About Me:
+
+- 🌱 I’m currently learning **TailwindCSS** and **Advanced HTML/CSS**
+- 🔭 I’m working on building **Responsive Frontend Projects**
+- 💬 Ask me about **HTML | CSS | Tailwind**
+- 📫 Reach me at: **hossain15-6039@diu.edu.bd**
+- ⚡ Fun fact: **I think I’m funny and love memes! 😄**
 
 ---
 
-### 🚀 Currently Working On:
-- Learning TailwindCSS
-- Building Responsive Frontend Projects
-- Practicing Problem Solving on HackerRank & Codeforces
+## 🏆 Achievements:
+
+- 🏅 Completed 10+ Frontend Projects
+- 🎯 Solved 200+ Problems on Coding Platforms
+- 🌟 100+ GitHub Contributions in 2025
+- 📚 Continuous Learner at Daffodil International University
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+## 📌 Featured Projects:
+
+- 🚍 [DIU Transport Schedule App](https://github.com/Moinul6039/transport-app) - Flutter App for transport timings.
+- 🌐 [Portfolio Website](https://github.com/Moinul6039/portfolio-website) - Personal portfolio showcasing projects and skills.
+- 💻 [Problem Solving Hub](https://github.com/Moinul6039/problem-solving) - Collection of solved problems from HackerRank, Codeforces.
+
+---
+
+## 🛠️ Languages & Tools:
 
 <p align="left">
-  <a href="https://linkedin.com/in/md-moinul-hossain-628b18217" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/nirob.pathan17" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/hossain15_6039" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
-  </a>
-  <a href="https://codeforces.com/profile/moinul_6039" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
-  </a>
+  <img src="https://img.shields.io/badge/C%20Language-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40" />
-  </a>
-</p>
-
----
-
-<h3 align="left">📈 GitHub Stats:</h3>
+## 📈 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moinul6039&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moinul6039&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=moinul6039&show_icons=true&theme=tokyonight" alt="moinul6039 stats" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=moinul6039&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moinul6039&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
 ---
 
-<h3 align="left">💬 Dev Quote:</h3>
+## 🌱 Currently Learning:
+
+- 📚 Advanced CSS & Tailwind
+- 🛠️ JavaScript (DOM Manipulation)
+- 🖥️ Responsive UI/UX Design
+- 💻 Problem Solving (Codeforces, HackerRank)
+
+---
+
+## 🌐 Connect with Me:
+
+<p align="left">
+  <a href="https://linkedin.com/in/md-moinul-hossain-628b18217" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://fb.com/nirob.pathan17" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/hossain15_6039" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
+  <a href="https://codeforces.com/profile/moinul_6039" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+</p>
+
+---
+
+## 📊 Activity Graph:
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=moinul6039&theme=tokyo-night" alt="activity graph" />
+</p>
+
+---
+
+## 💬 Dev Quote:
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
@@ -102,18 +103,10 @@
 
 ---
 
-<h3 align="left">🐍 GitHub Contribution Snake:</h3>
+## 🐍 Contribution Snake:
 
 <p align="center">
-  <img src="https://github.com/moinul6039/moinul6039/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/moinul6039/moinul6039/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
-
-<h3 align="left">☕ Support Me:</h3>
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/moinul6039">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" />
-  </a>
-</p>
