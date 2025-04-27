@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Moinul Hossain</h1>
-<h3 align="center">A passionate Frontend Developer from Bangladesh</h3>
+<h3 align="center">A passionate Frontend Developer from Bangladesh 🇧🇩</h3>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/8a/f4/fe/8af4febc154ad406079ce04b7e9f70ee.gif" width="400" alt="Coding gif"/>
@@ -11,18 +11,23 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=moinul6039&theme=onestar" alt="Github Trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=moinul6039&theme=discord" alt="Github Trophies" />
 </p>
 
 ---
 
-- 🌱 I’m currently learning **HTML, CSS, Tailwind**
-- 👨‍💻 All of my projects are available at: [My GitHub Repositories](https://github.com/Moinul6039?tab=repositories)
+- 🌱 I’m currently learning **HTML, CSS, TailwindCSS**
+- 👨‍💻 All of my projects are available at: [GitHub Repositories](https://github.com/Moinul6039?tab=repositories)
 - 💬 Ask me about **HTML, CSS**
 - 📫 How to reach me: **hossain15-6039@diu.edu.bd**
-- ⚡ Fun fact: **I think I am funny**
+- ⚡ Fun fact: **I think I am funny 😂**
+
+---
+
+### 🚀 Currently Working On:
+- Learning TailwindCSS
+- Building Responsive Frontend Projects
+- Practicing Problem Solving on HackerRank & Codeforces
 
 ---
 
@@ -73,7 +78,7 @@
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
+<h3 align="left">📈 GitHub Stats:</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moinul6039&layout=compact&theme=tokyonight" alt="Top Languages" />
@@ -85,4 +90,30 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=moinul6039&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+<h3 align="left">💬 Dev Quote:</h3>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</p>
+
+---
+
+<h3 align="left">🐍 GitHub Contribution Snake:</h3>
+
+<p align="center">
+  <img src="https://github.com/moinul6039/moinul6039/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+<h3 align="left">☕ Support Me:</h3>
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/moinul6039">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" />
+  </a>
 </p>
