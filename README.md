@@ -98,24 +98,10 @@
   <img src="https://github.com/moinul6039/moinul6039/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
 
-## 💬 Dev Quotes
+## 💬 Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20implement%20it.&author=David%20Heinemeier%20Hansson" alt="Quote 1" width="400" />
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight&quote=Talk%20is%20cheap.%20Show%20me%20the%20code.&author=Linus%20Torvalds" alt="Quote 2" width="400" />
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight&quote=Any%20fool%20can%20write%20code%20that%20a%20computer%20can%20understand.%20Good%20programmers%20write%20code%20that%20humans%20can%20understand.&author=Martin%20Fowler" alt="Quote 3" width="400" />
-</div>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight&quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&author=John%20Johnson" alt="Quote 4" width="400" />
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight&quote=Code%20never%20lies%2C%20comments%20sometimes%20do.&author=Ron%20Jeffries" alt="Quote 5" width="400" />
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight&quote=The%20only%20way%20to%20learn%20a%20new%20programming%20language%20is%20by%20writing%20programs%20in%20it.&author=Dennis%20Ritchie" alt="Quote 6" width="400" />
-</div>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight&quote=Programming%20isn't%20about%20what%20you%20know%3B%20it's%20about%20what%20you%20can%20figure%20out.&author=Chris%20Pine" alt="Quote 7" width="400" />
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight&quote=The%20best%20error%20message%20is%20the%20one%20that%20never%20shows%20up.&author=Thomas%20Fuchs" alt="Quote 8" width="400" />
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight&quote=Sometimes%20it%20pays%20to%20stay%20in%20bed%20on%20Monday%2C%20rather%20than%20spending%20the%20rest%20of%20the%20week%20debugging%20Monday's%20code.&author=Dan%20Salomon" alt="Quote 9" width="400" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=random&quoteCategory=programming" alt="Dynamic Quote" />
 </div>
 
 ---
