@@ -32,7 +32,7 @@
 
 ## 📌 Featured Projects:
 
-- 🚍 [DIU Transport Schedule App](https://github.com/Moinul6039/transport-app) - Flutter App for transport timings.
+- 🚍 DHAKA DESIGN PROJECT(https://github.com/Moinul6039/dhakadesign2.git) - React.
 - 🌐 [Portfolio Website](https://github.com/Moinul6039/portfolio-website) - Personal portfolio showcasing projects and skills.
 - 💻 [Problem Solving Hub](https://github.com/Moinul6039/problem-solving) - Collection of solved problems from HackerRank, Codeforces.
 
